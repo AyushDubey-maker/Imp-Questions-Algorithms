@@ -31,3 +31,15 @@ public class permutationOfString {
 	}
 
 }
+-------------------------------------x------------------------x---------------------------------x------------------------------------x-
+Output:
+
+Enter a String: 
+ABC
+ABC 
+ACB 
+BAC 
+BCA 
+CBA 
+CAB 
+
