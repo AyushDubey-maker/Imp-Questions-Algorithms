@@ -30,3 +30,11 @@ public class dayOfProgrammer {
         System.out.println(result);
     }
 }
+
+Output:
+
+Enter the required Year:
+2021
+Day Of Programmer for year: 2021
+13.09.2021
+
