@@ -38,3 +38,17 @@ public class matrix {
 	}
 
 }
+------x------x---------------------x-------------------------x-----------------------------------x------------------------------------------
+
+Output:
+Enter the test Cases
+1
+Enter rows
+1
+Enter columns
+2
+Enter the matrix
+12
+23
+The row with max 1s :0
+
