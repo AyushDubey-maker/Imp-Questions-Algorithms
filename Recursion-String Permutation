@@ -20,3 +20,13 @@ public class permutationOfString {
    }
  }
 }
+--------x--------x---------------x------------------------
+Output:
+Enter a String to get it's Permutation: 
+ABC
+ABC
+ACB
+BAC
+BCA
+CAB
+CBA
