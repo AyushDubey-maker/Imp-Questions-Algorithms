@@ -32,5 +32,5 @@ Example Input
 Example Output 
 8
 
-**Explanation:**
+Explanation:
 The divisors of 24 are 1,2,3,4,6,8,12,24, out of which 1,2,3,4,6,8 are in the range [1,10]. Therefore, the answer is max(1,2,3,4,6,8)=8.
