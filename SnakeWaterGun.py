@@ -63,4 +63,18 @@ elif userPoints==compPoints:
 else:
     print("You Loose..")
  
-
+---x------x-------------------x---------------
+Output:
+    How many matches you want to play? 2
+Comp Turn :Snake(s) Water(w) Gun(g)?    
+Player's Turn :Snake(s) Water(w) Gun(g)?:-g
+Computer chose:w
+You chose:g
+You Loose!
+Player's Turn :Snake(s) Water(w) Gun(g)?:-w
+Computer chose:w
+You chose:w
+The game is a tie
+Your points:  0
+Computer points:  1
+You Loose..
