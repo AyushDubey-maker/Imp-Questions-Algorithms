@@ -1,0 +1,26 @@
+import random
+
+randNumber=random.randint(1,100)
+
+print(randNumber)
+userInput=None
+guesses=0
+
+while(userInput!=randNumber):
+    userInput=int(input("Guess a number: "))
+
+    if userInput<randNumber:
+        print("Choose a higher value number.")
+        guesses+=1
+    elif userInput>randNumber:
+        print("Choose a lower value number.")
+        guesses+=1
+    else:
+        print("You guessed the number correctly.")
+        guesses+=1
+    if guesses==5:
+        print("You failed..Sorry")
+        break
+    
+if(guesses<5):    
+    print("You took",guesses," Guess" )
