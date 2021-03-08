@@ -39,3 +39,9 @@ if(result==1){
 	
 	}
 }
+-----x----x----x
+Example Input 1
+2 5 3
+1 2
+Example Output 1
+YES
