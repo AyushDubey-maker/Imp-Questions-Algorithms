@@ -1,3 +1,13 @@
+
+// Example Input
+1
+1
+	
+// Example Output
+20
+	
+// Explanation
+Example case 1: There is only one die. If Chef places it on the table with 1 pip facing down, the visible pips are 2, 3, 4, 5 and 6, and their sum is 20.
 /* package codechef; // don't place package name! */
 
 import java.util.*;
